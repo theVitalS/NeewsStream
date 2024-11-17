@@ -1,0 +1,1 @@
+# The project's aim is to create a customizable news feed to later be integrated in other projects
